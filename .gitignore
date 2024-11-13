@@ -1,0 +1,5 @@
+.env
+data.txt
+dist
+build
+screenshot_uploader.spec

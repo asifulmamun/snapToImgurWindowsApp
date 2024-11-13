@@ -1,0 +1,7 @@
+opencv-python
+pillow
+pynput
+pyperclip
+requests
+numpy
+python-dotenv
