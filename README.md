@@ -9,6 +9,9 @@
 
 
 
-### EXE file for windows
+### EXE file for windows - Generate Software
 ```pip install pyinstaller```
 ```pyinstaller --onefile --noconsole screenshot_uploader.py```
+
+#### Run EXE file
+```screenshot_uploader.exe``` file install or run in windows from dist folder
